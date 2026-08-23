@@ -17,6 +17,7 @@ This case presents how to automate data processing activity that needs to be per
 - Python
 - Pandas
 - OpenPyXL
+- pathlib
 
 ## Usage
 
